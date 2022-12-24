@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="width: 80%">
+<div align="center">
+
+```text
+███████████████████████████████████████████████████████████████████████████████████████
+```
+
 <pre style="background-color: rgba(84, 3, 117, 0.1);"><code style="color: black;">
 <p style="color: rgba(140, 140, 140, 0.8); margin: 0; padding: 0; line-height: 1.2;">
-███████████████████████████████████████████████████████████████████████████████████████
 </p><p style="color: #c4c4c4; margin: 0 0 1em 0; padding: 0; line-height: 1.2;">
 ░█─░█ █▀▀ █── █── █▀▀█ 　 ▀▀█▀▀ █──█ █▀▀ █▀▀█ █▀▀ █ ──
 ░█▀▀█ █▀▀ █── █── █──█ 　 ──█── █▀▀█ █▀▀ █▄▄▀ █▀▀ ▀ ▄▄
@@ -54,11 +58,6 @@ Here are some ideas to get you started:
 
 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 
-<div>
-<a> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics for Luis&line_height=20&bg_color=e0e0e015&card_width=400px" />
-</a>
-<a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's Ranking&bg_color=e0e0e015&card_width=200px" />
-</a>
-</div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's%20Ranking&bg_color=e0e0e015&card_width=200px" /></div>
+

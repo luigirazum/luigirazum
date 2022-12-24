@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /></div>
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's%20Ranking&bg_color=e0e0e015&card_width=200px" /></div>
+<table><tr>
+  <td valign="center" width="66%">
+  <img src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /></td>
+  <td valign="center" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's%20Ranking&bg_color=e0e0e015&card_width=200px" /></td>
+</tr></table>
 

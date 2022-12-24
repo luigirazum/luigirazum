@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<pre style="background-color: rgba(84, 3, 117, 0.1);">
+<div align="center" style="width: 80%">
+<pre style="background-color: rgba(84, 3, 117, 0.1);"><code>
 <p style="color: rgba(140, 140, 140, 0.8); margin: 0; padding: 0; line-height: 1.2;">
 ███████████████████████████████████████████████████████████████████████████████████████
 </p><p style="color: #c4c4c4; margin: 0 0 1em 0; padding: 0; line-height: 1.2;">
@@ -49,5 +49,7 @@ Here are some ideas to get you started:
 </p><p style="color: rgba(140, 140, 140, 0.8); margin: 0; padding: 0; line-height: 1.2;">
 ███████████████████████████████████████████████████████████████████████████████████████
 </p>
-</pre>
+</code></pre>
 </div>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luigirazum&count_private=true&theme=transparent)](https://github.com/luigirazum/github-readme-stats)

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" style="width: 80%">
-<pre style="background-color: rgba(84, 3, 117, 0.1);"><code>
+<pre style="background-color: rgba(84, 3, 117, 0.1);"><code style="color: black;">
 <p style="color: rgba(140, 140, 140, 0.8); margin: 0; padding: 0; line-height: 1.2;">
 ███████████████████████████████████████████████████████████████████████████████████████
 </p><p style="color: #c4c4c4; margin: 0 0 1em 0; padding: 0; line-height: 1.2;">

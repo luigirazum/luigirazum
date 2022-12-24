@@ -55,7 +55,10 @@ Here are some ideas to get you started:
 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 
 <div>
+<a> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics for Luis&line_height=20&bg_color=e0e0e015&card_width=400px" />
-
+</a>
+<a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's Ranking&bg_color=e0e0e015&card_width=200px" />
+</a>
 </div>

@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 
-<table><tr>
-  <td valign="center" width="66%">
+<table width="100%"><tr>
+  <td valign="center" width="60%">
   <img src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /></td>
-  <td valign="center" width="33%">
+  <td valign="center" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's%20Ranking&bg_color=e0e0e015&card_width=200px" /></td>
 </tr></table>
 

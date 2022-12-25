@@ -88,7 +88,9 @@ Here are some ideas to get you started:
 
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
-<a href="https://code.visualstudio.com/"> <code> <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" /> </code> </a>
+  <a href="https://code.visualstudio.com/">
+    <code> <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" /> <b> vscode</b> </code>
+  </a>
 
 <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
 <img height="40" width="40" src="https://unpkg.com/simple-icons@v8/icons/figma.svg" />
@@ -100,3 +102,15 @@ Here are some ideas to get you started:
         <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
     </a>
 </details>
+
+<style>
+  red { color: red }
+</style>
+
+<red> hola </red>
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |

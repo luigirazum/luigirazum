@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 
 ## 🔍 Quick view of my activity
 <table><tr>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /><img width="15px" src="assets/imgs/transparent.png">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&repo=luigirazum&count_private=true&show_icons=true&theme=transparent&&custom_title=Statistics%20for%20Luis&line_height=20&bg_color=e0e0e015&card_width=400px" /><img src="assets/imgs/transparent10px.png">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&layout=compact&theme=transparent&custom_title=Language's%20Ranking&bg_color=e0e0e015&card_width=200px" /></td>
 </tr></table>

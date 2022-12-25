@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 📚 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 
 ## 🔌 Connect with me
-<a href="https://twitter.com/luigirazum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigirazum" height="30" width="40" /></a>
+<code><a href="https://twitter.com/luigirazum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigirazum" height="30" width="40" /></a></code>
 <a href="https://linkedin.com/in/luiszubia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiszubia" height="30" width="40" /></a>
 
 
@@ -86,3 +86,17 @@ Here are some ideas to get you started:
 <h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+
+<a href="https://code.visualstudio.com/"> <code> <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/white" /> </code> </a>
+
+<img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
+<img height="40" width="40" src="https://unpkg.com/simple-icons@v8/icons/figma.svg" />
+
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
+    </a>
+</details>

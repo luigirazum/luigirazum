@@ -30,12 +30,12 @@
 ```
   </td>
     <td align="center">
-      <img src="assets/imgs/duckmatrix.gif">
+      <img src="assets/imgs/duckmatrix.gif" width="200px">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
+      <img width="200px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
     </td>
   </tr>
 </table>

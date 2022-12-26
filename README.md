@@ -45,6 +45,7 @@
 </div>
 <br>
 <h2>:mega: A few things about me</h2>
+
 - 📚 Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
 - 📭 You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
 - 📌 All of my projects are listed [here](https://luigirazum.github.io/mv-portfolio-project/) or you can browse through [my repositories](https://github.com/luigirazum?tab=repositories).
@@ -56,6 +57,7 @@
 - 👀 If you see something wrong, suggestions and feedback are welcome.
 <br><br>
 <h2>:postbox: Would you like to reach me?</h2>
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
@@ -69,6 +71,7 @@
 <br><br>
 <h2>:dart: What do I use to code?</h2>
 <h3>👨‍💻 Languages & Frameworks</h3>
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -96,6 +99,7 @@
 </a><img src="assets/imgs/transparent5px.png" />
 <br>
 <h3>:computer: My Development Environment includes</h3>
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
   <code><img title="MS Windows" alt="microsoft windows" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
@@ -152,6 +156,7 @@
   </table>
 </details>
 <br><br>
+
 <h2>:zany_face: Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>
 <details>

@@ -144,9 +144,9 @@ Here are some ideas to get you started:
       <td> <!-- Shows Statistics for the GH profile on the first row / first column -->
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&theme=slateorange&bg_color=00000000&text_bold=false&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics%20for%20Luis&hide_title=true&line_height=22&card_width=422px" />
       </td>
-      <th rowspan="2"> <!-- Shows coding languages statistics on second column / first & second rows -->
+      <td rowspan="2"> <!-- Shows coding languages statistics on second column / first & second rows -->
         <img height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&theme=slateorange&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Coding%20Languages&card_width=200px" />
-      </th>
+      </td>
     </tr> <!-- EOF - First row of the table -->
     <tr> <!-- Second row of the table -->
       <td> <!-- Shows the user streak on the second row / first column -->

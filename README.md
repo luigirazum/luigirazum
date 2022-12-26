@@ -66,12 +66,10 @@ Here are some ideas to get you started:
 ## 👨‍💻 What I use to code?
 
 <h3>:bulb: Languages & Frameworks</h3>
-<p>
-    <code>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
-    </code>
+<p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <code>
       <img title="CSS 3" alt="css 3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

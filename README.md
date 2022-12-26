@@ -155,7 +155,9 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
-<br><br>
+
+<br>
+
 <h2>:zany_face: Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>
 <details>

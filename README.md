@@ -56,10 +56,9 @@
 - 👀 If you see something wrong, suggestions and feedback are welcome.
 <br />
 <br />
-<br />
 
 ## :postbox: Would you like to reach me?
-<br />
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
@@ -72,11 +71,10 @@
 </a>
 <br />
 <br />
-<br />
 
 ## :dart: What do I use to code?
 <h3>👨‍💻 Languages & Frameworks</h3>
-<br />
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -103,10 +101,9 @@
   <code><img title="ReactJS" alt="react js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
 <br />
-<br />
 
 <h3>:computer: My Development Environment includes</h3>
-<br />
+
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
   <code><img title="MS Windows" alt="microsoft windows" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
@@ -143,7 +140,6 @@
 </a>
 <br />
 <br />
-<br />
 
 ## :octocat: GitHub Statistics
 <details>	
@@ -165,7 +161,6 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
-<br />
 <br />
 <br />
 

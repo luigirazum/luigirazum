@@ -55,7 +55,7 @@
 - 🤞 Follow me and I will follow you as well.
 - 👀 If you see something wrong, suggestions and feedback are welcome.
 
-
+<br />
 
 ## :postbox: Would you like to reach me?
 
@@ -69,6 +69,7 @@
 <a href="mailto:soyzubia@gmail.com" target="_blank" rel="noreferrer">
   <code><img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></code>
 </a>
+
 <br />
 
 ## :dart: What do I use to code?
@@ -99,6 +100,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <code><img title="ReactJS" alt="react js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
+
 <br />
 
 <h3>:computer: My Development Environment includes</h3>
@@ -137,6 +139,8 @@
 <a href="https://www.microsoft.com/en-us/edge/download" target="_blank" rel="noreferrer">
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
+
+
 <br />
 
 ## :octocat: GitHub Statistics
@@ -159,6 +163,7 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
+
 <br />
 
 ## :zany_face: Joke of the day

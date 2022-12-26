@@ -138,7 +138,7 @@
 <a href="https://www.microsoft.com/en-us/edge/download" target="_blank" rel="noreferrer">
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
-<h4><img src="assets/imgs/transparent5px.png" /></h4>
+<br>
 <h2> :octocat: GitHub Statistics </h2>
 <details>	
   <summary><b>:bar_chart: See my activity</b></summary>

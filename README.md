@@ -43,8 +43,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" />
 </div>
-
-## :mega: A few things about me
+<br>
+<h2>:mega: A few things about me</h2>
 - 📚 Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
 - 📭 You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
 - 📌 All of my projects are listed [here](https://luigirazum.github.io/mv-portfolio-project/) or you can browse through [my repositories](https://github.com/luigirazum?tab=repositories).
@@ -54,11 +54,8 @@
 - ⭐ Make it count and give a star to any of my projects (**_it's free_**).
 - 🤞 Follow me and I will follow you as well.
 - 👀 If you see something wrong, suggestions and feedback are welcome.
-
-<br />
-
-## :postbox: Would you like to reach me?
-
+<br><br>
+<h2>:postbox: Would you like to reach me?</h2>
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
@@ -69,12 +66,9 @@
 <a href="mailto:soyzubia@gmail.com" target="_blank" rel="noreferrer">
   <code><img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></code>
 </a>
-
-<br />
-
-## :dart: What do I use to code?
+<br><br>
+<h2>:dart: What do I use to code?</h2>
 <h3>👨‍💻 Languages & Frameworks</h3>
-
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -100,10 +94,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <code><img title="ReactJS" alt="react js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
-
-<br />
+<br>
 <h3>:computer: My Development Environment includes</h3>
-
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
   <code><img title="MS Windows" alt="microsoft windows" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
@@ -159,11 +151,9 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
-
-<br />
-
-## :zany_face: Joke of the day
-> You're already here, let's have some fun.
+<br><br>
+<h2>:zany_face: Joke of the day</h2>
+<blockquote>You're already here, let's have some fun.</blockquote>
 <details>
 <summary><b>Show me</b></summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />

@@ -54,7 +54,8 @@
 - ⭐ Make it count and give a star to any of my projects (**_it's free_**).
 - 🤞 Follow me and I will follow you as well.
 - 👀 If you see something wrong, suggestions and feedback are welcome.
-<br />
+
+
 
 ## :postbox: Would you like to reach me?
 

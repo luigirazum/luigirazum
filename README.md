@@ -43,7 +43,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" />
 </div>
-<br>
+
 <h2>:mega: A few things about me</h2>
 
 - 📚 Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
@@ -155,7 +155,7 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
-<br><br>
+<br>
 
 <h2>:zany_face: Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>

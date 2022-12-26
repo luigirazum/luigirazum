@@ -102,7 +102,6 @@
 </a><img src="assets/imgs/transparent5px.png" />
 
 <br />
-
 <h3>:computer: My Development Environment includes</h3>
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />

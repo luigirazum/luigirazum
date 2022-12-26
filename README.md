@@ -69,8 +69,8 @@
 </a>
 
 
-## 👨‍💻 What do I use to code?
-<h3>:bulb: Languages & Frameworks</h3>
+## :dart: What do I use to code?
+<h3>👨‍💻 Languages & Frameworks</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 </a>
@@ -97,7 +97,7 @@
 </a>
 
 
-<h3>:hammer_and_wrench: My Development Environment includes</h3>
+<h3>:computer: My Development Environment includes</h3>
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
   <code><img title="MS Windows" alt="microsoft windows" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
 </a>

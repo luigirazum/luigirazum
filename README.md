@@ -55,7 +55,6 @@
 - 🤞 Follow me and I will follow you as well.
 - 👀 If you see something wrong, suggestions and feedback are welcome.
 <br />
-<br />
 
 ## :postbox: Would you like to reach me?
 
@@ -69,7 +68,6 @@
 <a href="mailto:soyzubia@gmail.com" target="_blank" rel="noreferrer">
   <code><img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></code>
 </a>
-<br />
 <br />
 
 ## :dart: What do I use to code?
@@ -139,7 +137,6 @@
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
 <br />
-<br />
 
 ## :octocat: GitHub Statistics
 <details>	
@@ -161,7 +158,6 @@
     </tr> <!-- EOF - Second row of the table -->
   </table>
 </details>
-<br />
 <br />
 
 ## :zany_face: Joke of the day

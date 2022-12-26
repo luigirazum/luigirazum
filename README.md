@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 ## 👨‍💻 What I use to code?
 
 <h3>:bulb: Languages & Frameworks</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<a title="HTML 5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <code><img alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <code><img title="CSS 3" alt="css 3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
   <code><img title="Git" alt="git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <code><img title="GitHub" alt="github" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+  <code><img title="GitHub" alt="github" width="40px" height="40px" src="https://cdn.simpleicons.org/github/white" /></code>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <code><img title="VS Code" alt="visual studio code" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>

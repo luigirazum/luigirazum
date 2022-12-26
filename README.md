@@ -51,24 +51,30 @@ Here are some ideas to get you started:
 ```
 </div>
 
-## Brief About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" /> </p>
+
+## :mega: Brief About Me
 - 📚 Currenttly enrolled in **Microverse Full-Stack Developer Program**.
 - 
-- <a href="https://portfolio-carol42.vercel.app/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
-  </a>
 
-## 🔌 Connect with me
-<a href="https://twitter.com/luigirazum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luigirazum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luiszubia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiszubia" height="30" width="40" /></a>
+
+## :postbox: Connect with me
+<a href="https://twitter.com/luigirazum" target="_blank" rel="noreferrer">
+  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></code>
+</a>
+<a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
+  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
+</a>
+<a href="mailto:soyzubia@gmail.com" target="_blank" rel="noreferrer">
+  <code><img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></code>
+</a>
 
 
 ## 👨‍💻 What I use to code?
-
 <h3>:bulb: Languages & Frameworks</h3>
-<a title="HTML 5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <code><img alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <code><img title="CSS 3" alt="css 3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 </a>
@@ -79,7 +85,7 @@ Here are some ideas to get you started:
   <code><img title="Bootstrap" alt="bootstrap" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 </a>
 <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github" target="_blank" rel="noreferrer">
-  <code><img title="Markdown" alt="markdown" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+  <code><img title="Markdown" alt="markdown" width="40px" height="40px" src="https://cdn.simpleicons.org/markdown/white" /></code>
 </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
   <code><img title="Webpack" alt="webpack" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></code>
@@ -90,6 +96,7 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <code><img title="ReactJS" alt="react js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </a>
+
 
 <h3>:hammer_and_wrench: My Development Environment includes</h3>
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
@@ -126,21 +133,24 @@ Here are some ideas to get you started:
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
 
+<br />
+
+<h2>:octocat: Statistics</h2>
 <details>	
-  <summary><b>:bar_chart: Quick view of my :octocat: activity</b></summary>
+  <summary><b>:bar_chart: See my activity</b></summary>
   <br />
   <table>
     <tr> <!-- First row of the table -->
       <td> <!-- Shows Statistics for the GH profile on the first row / first column -->
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&theme=slateorange&bg_color=000000f0&text_bold=false&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics%20for%20Luis&hide_title=true&line_height=22&card_width=422px" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&theme=slateorange&bg_color=00000000&text_bold=false&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics%20for%20Luis&hide_title=true&line_height=22&card_width=422px" />
       </td>
       <th rowspan="2"> <!-- Shows coding languages statistics on second column / first & second rows -->
-        <img height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&theme=slateorange&bg_color=000000f0&hide_border=true&include_all_commits=true&count_private=true&custom_title=Coding%20Languages&card_width=200px" />
+        <img height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&theme=slateorange&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Coding%20Languages&card_width=200px" />
       </th>
     </tr> <!-- EOF - First row of the table -->
     <tr> <!-- Second row of the table -->
       <td> <!-- Shows the user streak on the second row / first column -->
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=luigirazum&layout=compact&theme=slateorange&background=000000f0&hide_border=true" />
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=luigirazum&layout=compact&theme=slateorange&background=00000000&hide_border=true" />
       </td>
     </tr> <!-- EOF - Second row of the table -->
   </table>

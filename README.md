@@ -1,4 +1,5 @@
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td align="center" rowspan="2">
 
@@ -40,7 +41,6 @@
   </tr>
 </table>
 
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" />
 </div>
 

@@ -45,13 +45,19 @@
 </div>
 
 
-## :mega: Brief About Me
-- 📚 Currently studying to become a **_Full-Stack Software Developer_** at **Microverse**.
-- 
+## :mega: About Me
+- 📚 Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
+- 📭 You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
+- 📌 All of my projects are listed [here](https://luigirazum.github.io/mv-portfolio-project/) or you can browse through [my repositories](https://github.com/luigirazum?tab=repositories).
+- 🙋‍♂️ Do you have an issue with one of your projects? Let's put our minds together.
 - 💬 Ask me about anything (_I'll google it anyway_).
+- 🔍 Looking forward new oportunities.
+- ⭐ Make it count and give a star to any of my projects (**_it's free_**).
+- 🤞 Follow me and I will follow you as well.
+- 👀 If you see something wrong, suggestions and feedback are welcome.
 
 
-## :postbox: How to reach me
+## :postbox: You can contact me
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
 </a>
@@ -63,7 +69,7 @@
 </a>
 
 
-## 👨‍💻 What I use to code?
+## 👨‍💻 What do I use to code?
 <h3>:bulb: Languages & Frameworks</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <code><img title="HTML 5" alt="html5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -128,7 +134,7 @@
 
 <br />
 
-<h2>:octocat: Statistics</h2>
+<h2>:octocat: GitHub Statistics</h2>
 <details>	
   <summary><b>:bar_chart: See my activity</b></summary>
   <br />
@@ -150,7 +156,9 @@
 </details>
 
 <h2>:zany_face: Joke of the day</h2>
+
+> You're already here, let's have some fun.
 <details>
-<summary><b>Click here if you want to see it.</b></summary>
+<summary><b>Show me</b></summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
 </details>

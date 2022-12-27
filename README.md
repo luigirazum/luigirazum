@@ -30,21 +30,18 @@
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
   </td>
-    <td align="center">
-      <img src="assets/imgs/duckmatrix.gif" width="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="200px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
-    </td>
+  <td align="center">
+    <img src="assets/imgs/duckmatrix.gif" width="250px" alt="duck showcase matrix style">
+    <br>
+    <img width="250px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
+  </td>
   </tr>
 </table>
 
   <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" />
 </div>
 
-<h2>:mega: A few things about me</h2>
+<h2>:mega: A bit about me</h2>
 
 - 📚 Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
 - 📭 You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
@@ -143,16 +140,13 @@
     <tr> <!-- First row of the table -->
       <td> <!-- Shows Statistics for the GH profile on the first row / first column -->
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luigirazum&theme=slateorange&bg_color=00000000&text_bold=false&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Statistics%20for%20Luis&hide_title=true&line_height=22&card_width=422px" />
-      </td>
-      <td rowspan="2"> <!-- Shows coding languages statistics on second column / first & second rows -->
-        <img height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&theme=slateorange&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Coding%20Languages&card_width=200px" />
-      </td>
-    </tr> <!-- EOF - First row of the table -->
-    <tr> <!-- Second row of the table -->
-      <td> <!-- Shows the user streak on the second row / first column -->
+        <br><!-- Shows the user streak on the second row / first column -->
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=luigirazum&layout=compact&theme=slateorange&background=00000000&hide_border=true" />
       </td>
-    </tr> <!-- EOF - Second row of the table -->
+      <td> <!-- Shows coding languages statistics on second column / first & second rows -->
+        <img height="327px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigirazum&theme=slateorange&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Coding%20Languages&card_width=200px" />
+      </td>
+    </tr> <!-- EOF - First row of the table -->
   </table>
 </details>
 

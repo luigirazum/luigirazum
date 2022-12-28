@@ -1,7 +1,7 @@
-<div align="center">
-<table align="center">
+<!-- <div align="center"> -->
+<table width="100%" align="center">
   <tr>
-    <td align="center" rowspan="2">
+    <td align="center">
 
 ```diff
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -34,12 +34,15 @@
     <img src="assets/imgs/duckmatrix.gif" width="250px" alt="duck showcase matrix style">
     <br>
     <img width="250px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=151515&style=flat" alt="luigirazum" />
   </td>
   </tr>
 </table>
+<!-- </div> -->
 
-  <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=0e75b6&style=flat" alt="luigirazum" />
-</div>
+Glad to see you here.<br>
+I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems. **_Watching your code come to life as a fully functional and useful application is one of the best feelings in the world._**
 
 <h2>:mega: A bit about me</h2>
 
@@ -52,8 +55,9 @@
 - ⭐ Make it count and give a star to any of my projects (**_it's free_**).
 - 🤞 Follow me and I will follow you as well.
 - 👀 If you see something wrong, suggestions and feedback are welcome.
+- ⚡ Fun fact: I'm fun to work with.
 <br><br>
-<h2>:postbox: Would you like to reach me?</h2>
+<h2>:postbox: Get in touch</h2>
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
@@ -149,7 +153,6 @@
     </tr> <!-- EOF - First row of the table -->
   </table>
 </details>
-
 <br>
 
 <h2>:zany_face: Joke of the day</h2>

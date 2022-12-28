@@ -45,13 +45,17 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" /> Glad to see you here.</h2>
 
 I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.<br>
-**_"Watching your code come to life as a fully functional and useful application is one of the best feelings in the world."_** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="20" height="20" />
+<div align="right">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="40" height="40" />
+
+**_"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."_**
+</div>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> A bit about me</h2>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="20" height="20" /> Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="20" height="20" /> You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> All of my projects are listed [here](https://luigirazum.github.io/mv-portfolio-project/) or you can browse through [my repositories](https://github.com/luigirazum?tab=repositories).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> All of my projects are listed here <a href="https://luigirazum.github.io/mv-portfolio-project/"><img src="https://custom-icon-badges.demolab.com/badge/-portfolio-blue.svg?logo=globe&logoColor=white" alt="portfolio" /></a> or you can browse through <a href="https://github.com/luigirazum?tab=repositories"><img src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white" alt="repositories" /></a>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" alt="Bug" width="20" height="20" /> Do you have an issue with one of your projects? Let's put our minds together.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> Ask me about anything (_I'll google it anyway_).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="20" height="20" /> Looking forward to new oportunities.
@@ -64,14 +68,15 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
-  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></code>
+  <code><img height="30px" src="https://img.shields.io/badge/-luiszubia-fff?style=flat-square&logo=linkedin&logoColor=fff&labelColor=0a66c2" alt="linkedin" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
 <a href="https://twitter.com/luigirazum" target="_blank" rel="noreferrer">
-  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" /></code>
+  <code><img height="30px" src="https://img.shields.io/badge/-@LuigiRazum-fff?style=flat-square&logo=twitter&logoColor=fff&labelColor=03a9f4" alt="twitter" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
 <a href="mailto:soyzubia@gmail.com" target="_blank" rel="noreferrer">
-  <code><img src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></code>
+  <code><img height="30px" src="https://img.shields.io/badge/-soyzubia@gmail.com-fff?style=flat-square&logo=gmail&logoColor=fff&labelColor=EA4335" alt="gmail" /></code>
 </a>
+
 <br><br>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> What do I use to code?</h2>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="20" height="20" /> Languages & Frameworks</h3>

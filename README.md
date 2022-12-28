@@ -77,7 +77,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
   <code><img height="30px" src="https://img.shields.io/badge/-soyzubia@gmail.com-fff?style=flat-square&logo=gmail&logoColor=fff&labelColor=EA4335" alt="gmail" /></code>
 </a>
 
-<br><br>
+<br>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> What do I use to code?</h2>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="20" height="20" /> Languages & Frameworks</h3>
 

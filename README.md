@@ -1,4 +1,3 @@
-<!-- <div align="center"> -->
 <table width="100%" align="center">
   <tr>
     <td align="center">
@@ -40,7 +39,7 @@
   </td>
   </tr>
 </table>
-<!-- </div> -->
+
 <div align="right">
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" />
 
@@ -49,7 +48,9 @@ _"Watching your code come to life as a fully functional and<br>useful applicatio
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" /> Glad to see you here.</h2>
 
-I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.<br>
+I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.
+
+<br>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> A bit about me</h2>
 

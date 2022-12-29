@@ -143,9 +143,9 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
 <br><br>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="25" height="25" /> GitHub Statistics </h2>
+<h2><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="25" height="25" /> GitHub Statistics </h2>
 <details>	
-  <summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" /> See my activity</b></summary>
+  <summary><b><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" /> See my activity</b></summary>
   <br />
   <table>
     <tr> <!-- First row of the table -->
@@ -162,10 +162,10 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 </details>
 <br>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="25" height="25" /> Joke of the day</h2>
+<h2><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="25" height="25" /> Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>
 <details><summary>
-    <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="20" height="20" /> Show me</b>
+    <b><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="20" height="20" /> Show me</b>
   </summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
 </details>

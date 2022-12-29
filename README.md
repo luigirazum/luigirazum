@@ -28,6 +28,10 @@
 -▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
+<div align="right">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="62" height="62" />
+
+_<sub>"Watching your code come to life as a fully functional and</sub><br><sup>useful application is one of the best feelings in the world."</sup>_<br> **@luigirazum**</div>
   </td>
   <td align="center">
     <img src="assets/imgs/duckmatrix.gif" width="250px" alt="duck showcase matrix style">
@@ -40,11 +44,6 @@
   </tr>
 </table>
 
-<div align="right">
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="65" height="65" />
-
-_<sup>"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."</sup>_<br> <sup>**@luigirazum**</sup>
-</div>
 
 <h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="30" height="30" /> Glad to see you here.</h2>
 
@@ -54,7 +53,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="25" height="25" /> Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
-- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> All of my projects are listed here <a href="https://luigirazum.github.io/mv-portfolio-project/"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-portfolio-blue.svg?logo=globe&logoColor=white" alt="portfolio" /></a> or you can browse through <a href="https://github.com/luigirazum?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white" alt="repositories" /></a>
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> All of my projects are listed in my <a href="https://luigirazum.github.io/mv-portfolio-project/"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-portfolio-blue.svg?logo=globe&logoColor=white" alt="portfolio" /></a> or you can browse through the <a href="https://github.com/luigirazum?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white" alt="repositories" /></a>
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" alt="Bug" width="25" height="25" /> Do you have an issue with one of your projects? Let's put our minds together.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Ask me about anything (_I'll google it anyway_).
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="25" height="25" /> Looking forward to new oportunities.
@@ -168,12 +167,12 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
     <b><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="25" height="25" /> Show me</b>
   </summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
-</details>
+</details><br>
 
-##
 <div align="center">
+<hr width="50%" />
 <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="40" height="40" /><br>
 <b>Thank you! for visiting</b> my profile <a href="https://github.com/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-@luigirazum-black.svg?logo=github&logoColor=white&labelColor=black" alt="gh profile" /></a>.<br>
-If you would like me to try something new, please, <img align="center" src="https://custom-icon-badges.demolab.com/badge/-star-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> and <img align="center" src="https://custom-icon-badges.demolab.com/badge/-fork-black.svg?logo=fork&logoColor=white&labelColor=black" alt="fork" /> this <br> <a href="https://github.com/luigirazum/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-README-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a> repository.<br>
-Also you can show <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> by <img align="center" src="https://custom-icon-badges.demolab.com/badge/-starring-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> any other of<br>my <a href="https://github.com/luigirazum?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a>.<br>
+<sub>If you would like me to try something new, please, <img align="center" src="https://custom-icon-badges.demolab.com/badge/-star-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> and <img align="center" src="https://custom-icon-badges.demolab.com/badge/-fork-black.svg?logo=fork&logoColor=white&labelColor=black" alt="fork" /> this <a href="https://github.com/luigirazum/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-README-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a> repository.<br>
+Also you can show <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> by <img align="center" src="https://custom-icon-badges.demolab.com/badge/-starring-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> any other of my <a href="https://github.com/luigirazum?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repos-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a>.</sub>
 </div>

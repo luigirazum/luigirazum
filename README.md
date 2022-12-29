@@ -43,9 +43,7 @@
 <div align="right">
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" />
 
-<sub>
-
-_"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."_ </sub><br> <sup>**@luigirazum**</sup>
+_<sup>"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."</sup>_<br> <sup>**@luigirazum**</sup>
 </div>
 
 <h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="30" height="30" /> Glad to see you here.</h2>

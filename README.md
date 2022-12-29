@@ -43,7 +43,7 @@ _<sub>"Watching your code come to life as a fully functional and</sub><br><sup>u
   </td>
   </tr>
 </table>
-
+<br>
 
 <h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="30" height="30" /> Glad to see you here.</h2>
 
@@ -141,7 +141,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 <a href="https://www.microsoft.com/en-us/edge/download" target="_blank" rel="noreferrer">
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
-<br><br>
+<br><br><br>
 <h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="30" height="30" /> GitHub Statistics </h2>
 <details>	
   <summary><b><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> See my activity</b></summary>
@@ -159,7 +159,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
     </tr> <!-- EOF - First row of the table -->
   </table>
 </details>
-<br>
+<br><br>
 
 <h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="30" height="30" /> Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>

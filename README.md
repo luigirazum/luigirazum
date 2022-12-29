@@ -46,24 +46,24 @@
 _"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."_<br> <sup>**@luigirazum**</sup>
 </div>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" /> Glad to see you here.</h2>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="30" height="30" /> Glad to see you here.</h2>
 
 I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.
 <br><br>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> A bit about me</h2>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> A bit about me</h2>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="20" height="20" /> Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="20" height="20" /> You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> All of my projects are listed here <a href="https://luigirazum.github.io/mv-portfolio-project/"><img src="https://custom-icon-badges.demolab.com/badge/-portfolio-blue.svg?logo=globe&logoColor=white" alt="portfolio" /></a> or you can browse through <a href="https://github.com/luigirazum?tab=repositories"><img src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white" alt="repositories" /></a>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" alt="Bug" width="20" height="20" /> Do you have an issue with one of your projects? Let's put our minds together.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="20" height="20" /> Ask me about anything (_I'll google it anyway_).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="20" height="20" /> Looking forward to new oportunities.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Make it count and give a star to any of my projects (**_it's free_**).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" /> Follow me and I will follow you as well.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="20" height="20" /> If you see something wrong, suggestions and feedback are welcome.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="20" height="20" /> Fun fact: I'm fun to work with.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="25" height="25" /> Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> You can reach me at [soyzubia@gmail.com](mailto:soyzubia@gmail.com).
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> All of my projects are listed here <a href="https://luigirazum.github.io/mv-portfolio-project/"><img align="top" src="https://custom-icon-badges.demolab.com/badge/-portfolio-blue.svg?logo=globe&logoColor=white" alt="portfolio" /></a> or you can browse through <a href="https://github.com/luigirazum?tab=repositories"><img align="top" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white" alt="repositories" /></a>
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" alt="Bug" width="25" height="25" /> Do you have an issue with one of your projects? Let's put our minds together.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Ask me about anything (_I'll google it anyway_).
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="25" height="25" /> Looking forward to new oportunities.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Make it count and give a star to any of my projects (**_it's free_**).
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> Follow me and I will follow you as well.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="25" height="25" /> If you see something wrong, suggestions and feedback are welcome.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> Fun fact: I'm fun to work with.
 <br><br>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Get in touch</h2>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="30" height="30" /> Get in touch</h2>
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://linkedin.com/in/luiszubia" target="_blank" rel="noreferrer">
@@ -77,8 +77,8 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 </a>
 
 <br>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> What do I use to code?</h2>
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="20" height="20" /> Languages & Frameworks</h3>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> What do I use to code?</h2>
+<h3><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Languages & Frameworks</h3>
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -106,7 +106,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
   <code><img title="ReactJS" alt="react js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </a><img src="assets/imgs/transparent5px.png" />
 <br>
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> My Development Environment includes</h3>
+<h3><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> My Development Environment includes</h3>
 
 <img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" /><img src="assets/imgs/transparent5px.png" />
 <a href="https://www.microsoft.com/en-us/windows/windows-10-specifications" target="_blank" rel="noreferrer">
@@ -143,9 +143,9 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
   <code><img title="Microsoft Edge" alt="microsoft edge" width="40px" height="40px" src="https://cdn.simpleicons.org/microsoftedge" /></code>
 </a>
 <br><br>
-<h2><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="25" height="25" /> GitHub Statistics </h2>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Tipping%20Hand.png" alt="Person Tipping Hand" width="30" height="30" /> GitHub Statistics </h2>
 <details>	
-  <summary><b><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" /> See my activity</b></summary>
+  <summary><b><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> See my activity</b></summary>
   <br />
   <table>
     <tr> <!-- First row of the table -->
@@ -162,10 +162,10 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 </details>
 <br>
 
-<h2><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="25" height="25" /> Joke of the day</h2>
+<h2><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="30" height="30" /> Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>
 <details><summary>
-    <b><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="20" height="20" /> Show me</b>
+    <b><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="25" height="25" /> Show me</b>
   </summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
 </details>

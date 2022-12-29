@@ -41,7 +41,7 @@
 </table>
 
 <div align="right">
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="65" height="65" />
 
 _<sup>"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."</sup>_<br> <sup>**@luigirazum**</sup>
 </div>
@@ -59,7 +59,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Ask me about anything (_I'll google it anyway_).
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="25" height="25" /> Looking forward to new oportunities.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Make it count and give a star to any of my projects (**_it's free_**).
-- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> Follow me and I will follow you as well.
+- <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Follow me and I will follow you as well.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="25" height="25" /> If you see something wrong, suggestions and feedback are welcome.
 - <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> Fun fact: I'm fun to work with.
 <br><br>
@@ -169,3 +169,11 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
   </summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
 </details>
+
+##
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="40" height="40" /><br>
+<b>Thank you! for visiting</b> my profile <a href="https://github.com/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-@luigirazum-black.svg?logo=github&logoColor=white&labelColor=black" alt="gh profile" /></a>.<br>
+If you would like me to try something new, please, <img align="center" src="https://custom-icon-badges.demolab.com/badge/-star-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> and <img align="center" src="https://custom-icon-badges.demolab.com/badge/-fork-black.svg?logo=fork&logoColor=white&labelColor=black" alt="fork" /> this <br> <a href="https://github.com/luigirazum/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-README-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a> repository.<br>
+Also you can show <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> by <img align="center" src="https://custom-icon-badges.demolab.com/badge/-starring-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> any other of<br>my <a href="https://github.com/luigirazum?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-repositores-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a>.<br>
+</div>

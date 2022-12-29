@@ -170,7 +170,7 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 </details><br>
 
 <div align="center">
-<h2 width="50%" /></h2>
+<h2 align="center" width="300px" /></h2>
 <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="40" height="40" /><br>
 <b>Thank you! for visiting</b> my profile <a href="https://github.com/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-@luigirazum-black.svg?logo=github&logoColor=white&labelColor=black" alt="gh profile" /></a>.<br>
 <sub>If you would like me to try something new, please, <img align="center" src="https://custom-icon-badges.demolab.com/badge/-star-black.svg?logo=star&logoColor=white&labelColor=black" alt="star" /> and <img align="center" src="https://custom-icon-badges.demolab.com/badge/-fork-black.svg?logo=fork&logoColor=white&labelColor=black" alt="fork" /> this <a href="https://github.com/luigirazum/luigirazum"><img align="center" src="https://custom-icon-badges.demolab.com/badge/@luigirazum-README-blue.svg?logo=github&logoColor=white&labelColor=black" alt="repositories" /></a> repository.<br>

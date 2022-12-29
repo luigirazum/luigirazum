@@ -46,9 +46,9 @@
 
 I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.<br>
 <div align="right">
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="40" height="40" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" />
 
-**_"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."_**
+<p>"Watching your code come to life as a fully functional and<br>useful application is one of the best feelings in the world."<br>@luigirazum</p>
 </div>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> A bit about me</h2>
@@ -165,7 +165,8 @@ I'm a **passionate coder** and a **clean code enthusiast** who is always looking
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown Face" width="25" height="25" /> Joke of the day</h2>
 <blockquote>You're already here, let's have some fun.</blockquote>
-<details>
-<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="20" height="20" /> Show me</b></summary>
+<details><summary>
+    <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Shrugging.png" alt="Man Shrugging" width="20" height="20" /> Show me</b>
+  </summary>
   <img src="https://readme-jokes.vercel.app/api?theme=gotham&bgColor=%2300000010&hideBorder" alt="Jokes Card" />
 </details>

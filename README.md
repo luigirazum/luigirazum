@@ -49,9 +49,7 @@ _"Watching your code come to life as a fully functional and<br>useful applicatio
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" /> Glad to see you here.</h2>
 
 I'm a **passionate coder** and a **clean code enthusiast** who is always looking to improve. I like to learn new things from others as much as helping others solve their problems.
-
-<br>
-
+<br><br>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> A bit about me</h2>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="20" height="20" /> Currently studying at **Microverse** to become a **_Full-Stack Software Developer_**.

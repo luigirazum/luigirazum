@@ -1,0 +1,77 @@
+<svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" font-family="Anonymous Pro, monospace" font-size="12px">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				html {
+					line-heigth: 1;
+					margin: 0;
+					padding: 0;
+					box-sizing: border-box;
+					white-space: pre;
+				}
+				pre {
+					display: block;
+					margin: 0;
+					padding: 0.3em 0;
+					text-shadow: 1px 1px 2px #000;
+				}
+				.heading {
+					text-align: center;
+					line-heigth: 1;
+					padding: 0.5em 1em;
+				}
+				.begin-line,
+				.middle-line,
+				.end-line,
+				.title {
+					margin-bottom: 0.75em;
+					text-shadow: 1px 1px 2px #e9e9e9;
+				}
+				.middle-line {
+					margin-bottom: 1.2em;
+				}
+				.title {
+					font-size: 14px;
+				}
+				.hello {
+					margin-bottom: 1.5em;
+					color: #dadada;
+				}
+				.name {
+					color: #3fb950;
+				}
+				.full-stack {
+					color: #ce17ff;
+				}
+				.software,
+				.developer {
+					color: #e2ff0f;
+					text-shadow: 1px 1px 2px #950616;
+				}
+			</style>
+			<div class="heading">
+			<pre class="begin-line">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</pre>
+			<pre class="hello">█░█ █▀▀ █░░ █░░ █▀█     ▀█▀ █░█ █▀▀ █▀█ █▀▀ █ ░
+█▀█ ██▄ █▄▄ █▄▄ █▄█     ░█░ █▀█ ██▄ █▀▄ ██▄ ▄ █</pre>
+			<pre class="name">░░██╗  ██╗██╗███╗░░░███╗  ██╗░░░░░██╗░░░██╗██╗░██████╗  ░░░░██╗██╗░░
+░██╔╝  ██║╚█║████╗░████║  ██║░░░░░██║░░░██║██║██╔════╝  ░░░██╔╝╚██╗░
+██╔╝░  ██║░╚╝██╔████╔██║  ██║░░░░░██║░░░██║██║╚█████╗░  ░░██╔╝░░╚██╗
+╚██╗░  ██║░░░██║╚██╔╝██║  ██║░░░░░██║░░░██║██║░╚═══██╗  ░██╔╝░░░██╔╝
+░╚██╗  ██║░░░██║░╚═╝░██║  ███████╗╚██████╔╝██║██████╔╝  ██╔╝░░░██╔╝░
+░░╚═╝  ╚═╝░░░╚═╝░░░░░╚═╝  ╚══════╝░╚═════╝░╚═╝╚═════╝░  ╚═╝░░░░╚═╝░░</pre>
+			<pre class="middle-line">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</pre>
+			<pre class="full-stack">▒█▀▀▀ █░░█ █░░ █░░ ░░ ▒█▀▀▀█ ▀▀█▀▀ █▀▀█ █▀▀ █░█
+▒█▀▀▀ █░░█ █░░ █░░ ▀▀ ░▀▀▀▄▄ ░░█░░ █▄▄█ █░░ █▀▄
+▒█░░░ ░▀▀▀ ▀▀▀ ▀▀▀ ░░ ▒█▄▄▄█ ░░▀░░ ▀░░▀ ▀▀▀ ▀░▀</pre>
+			<pre class="title">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   ▬▬▬▬▬▬   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</pre>
+			<pre class="software">█▀▀  █▀▀█  █▀▀  ▀▀█▀▀  █───█  █▀▀█  █▀▀█  █▀▀
+▀▀█  █──█  █▀▀  ──█──  █▄█▄█  █▄▄█  █▄▄▀  █▀▀
+▀▀▀  ▀▀▀▀  ▀──  ──▀──  ─▀─▀─  ▀──▀  ▀─▀▀  ▀▀▀</pre>
+			<pre class="developer">█▄─▄▄▀█▄─▄▄─█▄─█─▄█▄─▄▄─█▄─▄███─▄▄─█▄─▄▄─█▄─▄▄─█▄─▄▄▀█
+██─██─██─▄█▀██▄▀▄███─▄█▀██─██▀█─██─██─▄▄▄██─▄█▀██─▄─▄█
+▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀</pre>
+			<pre class="end-line">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</pre>
+			</div>
+		</div>
+	</foreignObject>
+</svg>

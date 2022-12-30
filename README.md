@@ -12,10 +12,10 @@
 _<sub>"Watching your code come to life as a fully functional and</sub><br><sup>useful application is one of the best feelings in the world."</sup>_<br> **@luigirazum**</div>
   </td>
   <td align="center">
-    <img src="assets/imgs/duckmatrix.gif" width="250px" alt="duck showcase matrix style">
+    <img src="assets/imgs/duckmatrix.gif" width="200px" alt="duck showcase matrix style">
     <br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Developer Quotes
-    <img width="250px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
+    <img width="200px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote Card" />
     <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
     <img src="https://komarev.com/ghpvc/?username=luigirazum&label=Profile%20views&color=151515&style=flat" alt="luigirazum" />
   </td>

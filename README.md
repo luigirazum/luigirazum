@@ -1,7 +1,11 @@
 <table width="100%" align="center">
   <tr>
     <td align="center">
-      <img align="center" width="700px" height="500px" src="assets/svgs/header.svg" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/svgs/header-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/svgs/header-light.svg">
+        <img align="center" width="700px" height="500px" alt="Displays the heading with different colors for light/dark theme." src="assets/svgs/header-dark.svg">
+      </picture>
 <div align="right">
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="62" height="62" />
 

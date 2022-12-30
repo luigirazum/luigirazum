@@ -19,36 +19,34 @@
 					text-align: center;
 					line-heigth: 1;
 					padding: 0.5em 1em;
-					<!-- background: rgba(240,240,240,0.05); -->
 				}
 				.begin-line,
 				.middle-line,
 				.end-line,
 				.title {
 					margin-bottom: 0.75em;
-					text-shadow: 1px 1px 2px #006900;
+					text-shadow: 1px 1px 2px #e9e9e9;
+				}
+				.middle-line {
+					margin-bottom: 1.2em;
 				}
 				.title {
-					margin-bottom: 0;
 					font-size: 14px;
 				}
 				.hello {
 					margin-bottom: 1.5em;
-					color: #006900;
+					color: #dadada;
 				}
 				.name {
-					color: #ffa311;
-					text-shadow: 1px 1px 2px #006900;
+					color: #3fb950;
 				}
 				.full-stack {
-					<!-- margin-bottom: 0.5em; -->
-					color: #e2ff0f;
-					text-shadow: 1px 1px 1px #000;
+					color: #ce17ff;
 				}
 				.software,
 				.developer {
-					color: #ce17ff;
-					text-shadow: 1px 1px 1px #fff;
+					color: #e2ff0f;
+					text-shadow: 1px 1px 2px #950616;
 				}
 			</style>
 			<div class="heading">
@@ -66,9 +64,9 @@
 ▒█▀▀▀ █░░█ █░░ █░░ ▀▀ ░▀▀▀▄▄ ░░█░░ █▄▄█ █░░ █▀▄
 ▒█░░░ ░▀▀▀ ▀▀▀ ▀▀▀ ░░ ▒█▄▄▄█ ░░▀░░ ▀░░▀ ▀▀▀ ▀░▀</pre>
 			<pre class="title">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   ▬▬▬▬▬▬   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</pre>
-			<pre class="software">█▀▀ █▀▀█ █▀▀ ▀▀█▀▀ █───█ █▀▀█ █▀▀█ █▀▀
-▀▀█ █──█ █▀▀ ──█── █▄█▄█ █▄▄█ █▄▄▀ █▀▀
-▀▀▀ ▀▀▀▀ ▀── ──▀── ─▀─▀─ ▀──▀ ▀─▀▀ ▀▀▀</pre>
+			<pre class="software">█▀▀  █▀▀█  █▀▀  ▀▀█▀▀  █───█  █▀▀█  █▀▀█  █▀▀
+▀▀█  █──█  █▀▀  ──█──  █▄█▄█  █▄▄█  █▄▄▀  █▀▀
+▀▀▀  ▀▀▀▀  ▀──  ──▀──  ─▀─▀─  ▀──▀  ▀─▀▀  ▀▀▀</pre>
 			<pre class="developer">█▄─▄▄▀█▄─▄▄─█▄─█─▄█▄─▄▄─█▄─▄███─▄▄─█▄─▄▄─█▄─▄▄─█▄─▄▄▀█
 ██─██─██─▄█▀██▄▀▄███─▄█▀██─██▀█─██─██─▄▄▄██─▄█▀██─▄─▄█
 ▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀</pre>
